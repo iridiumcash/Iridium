@@ -1,0 +1,2 @@
+192.99.35.69:9816 # node1.Iridium.org
+37.59.54.5:9816 # node2.Iridium.org

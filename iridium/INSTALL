@@ -1,0 +1,9 @@
+Building Iridium
+
+See doc/readme-qt.rst for instructions on building Iridium-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Iridium.
+
+See doc/build-*.txt for instructions on building Iridiumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Iridium.
